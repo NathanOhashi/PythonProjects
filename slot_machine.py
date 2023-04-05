@@ -1,4 +1,4 @@
-# From project: https://www.youtube.com/watch?v=th4OBktqK1I
+
 # User will input() money that will go into a balance[]
 # User will bet on lines and will be determined if they won
 # If they win: bet * value of line and add to balance
